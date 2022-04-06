@@ -4,8 +4,8 @@
 ## Nama : Putu Ary Kusuma Yudha
 ## NIM  : 119140098
 
-## Tampilan Awal
+## Tampilan Pesan
 
-Berikut merupakan `tampilan awal` dari Web Yang dibuat
+Berikut merupakan `tampilan pesan` dari Web Yang dibuat
 
 ![](Tampilan_Web.png)
